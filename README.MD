@@ -6,7 +6,7 @@ For personal reasons, I will not be adding the dataset used to the GitHub repo t
 
 <h1>Links</h1><b1>
 
-[link to gihub showing how to collect data](https://github.com/adeshpande3/Facebook-Messenger-Bot)<br>
+[Link to adeshpande3 GitHub showing how to collect data](https://github.com/adeshpande3/Facebook-Messenger-Bot)<br>
 [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)<br>
 [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)<br>
 [NLP FROM SCRATCH: CLASSIFYING NAMES WITH A CHARACTER-LEVEL RNN](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)<br>
